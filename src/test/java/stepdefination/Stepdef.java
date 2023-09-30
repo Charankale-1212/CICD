@@ -26,7 +26,7 @@ public class Stepdef {
 	@Given("some other precondition")
 	public void some_other_precondition() {
 	   
-		
+		System.out.println("charan kale");
 	}
 
 	@When("I complete action")
