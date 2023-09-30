@@ -14,6 +14,7 @@ features=".//Features/PP/Login.feature",
 glue="stepdefination",
 dryRun=false,
 monochrome=true,
+//monochrome=true,
 plugin= {"pretty","html:test-output"}
 		
 		
