@@ -37,7 +37,7 @@ public class Stepdef {
 
 	@When("some other action")
 	public void some_other_action() {
-	   
+	  System.out.println("Third"); 
 		
 	}
 
