@@ -26,18 +26,18 @@ public class Stepdef {
 	@Given("some other precondition")
 	public void some_other_precondition() {
 	   
-		
+		System.out.println("charan kale");
 	}
 
 	@When("I complete action")
 	public void i_complete_action() {
 	   
-		
+		System.out.println("Completed");
 	}
 
 	@When("some other action")
 	public void some_other_action() {
-	   
+	  System.out.println("Third"); 
 		
 	}
 
