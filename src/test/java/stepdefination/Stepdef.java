@@ -32,7 +32,7 @@ public class Stepdef {
 	@When("I complete action")
 	public void i_complete_action() {
 	   
-		
+		System.out.println("Completed");
 	}
 
 	@When("some other action")
